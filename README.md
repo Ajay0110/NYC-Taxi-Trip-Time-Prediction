@@ -54,4 +54,4 @@ includes pickup time, geo-coordinates, number of passengers, and several other v
 memory before sending to the vendor because the vehicle did not have a connection to 
 the server - Y=store and forward; N=not a store and forward trip
 
- trip_duration - duration of the trip in seconds. (DV
+ trip_duration - duration of the trip in seconds. (DV)
